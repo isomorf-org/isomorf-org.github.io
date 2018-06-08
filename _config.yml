@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-redirect-from
+google_analytics: UA-67914813-3
