@@ -2,4 +2,5 @@ title: isomorf.org
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
 google_analytics: UA-67914813-3
