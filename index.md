@@ -1,15 +1,15 @@
 # isomorf.org
 
-## [fpassembly](fpassembly.org)
+## fpassembly
+* [fpassembly.org](fpassembly.org)
 
-***
 
 ## foundation
 * [foundation-runtime-pure](https://github.com/isomorf-org/scala-foundation-runtime-pure)
 * foundation-runtime-effects
 * foundation-runtime-natives
 
-***
+
 
 ## effects
 
