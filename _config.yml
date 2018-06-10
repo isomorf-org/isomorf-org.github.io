@@ -6,6 +6,7 @@ plugins:
   - jekyll-seo-tag
 google_analytics: UA-67914813-3
 url: https://isomorf.org
+logo: /assets/images/icon-64x64.png
 twitter:
   username: isomorf_io
   card: summary
