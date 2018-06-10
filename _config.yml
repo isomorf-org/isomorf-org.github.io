@@ -3,4 +3,9 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-seo-tag
 google_analytics: UA-67914813-3
+url: https://isomorf.org
+twitter:
+  username: isomorf_io
+  card: summary
