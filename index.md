@@ -7,7 +7,7 @@ title: isomorf.org
 
 # foundation
 * [foundation-runtime-pure](https://github.com/isomorf-org/scala-foundation-runtime-pure)
-* foundation-runtime-effects
+* [foundation-runtime-effects](https://github.com/isomorf-org/scala-foundation-runtime-effects)
 * foundation-runtime-natives
 
 # effects
