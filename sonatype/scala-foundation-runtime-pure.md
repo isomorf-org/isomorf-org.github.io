@@ -1,5 +1,5 @@
 ---
-title: scala-foundation-runtime-pure
+title: scala-fpassembly
 redirect_to:
-  - https://github.com/isomorf-org/scala-foundation-runtime-pure
+  - https://github.com/isomorf-org/scala-fpassembly
 ---
